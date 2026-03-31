@@ -38,12 +38,3 @@ Actualmente en cuarto semestre, con ganas de construir cosas que funcionen y ten
 - 📚 Apasionado por entender cómo funcionan las cosas por dentro
 - 🎯 Meta: construir proyectos que combinen lógica sólida con buen diseño
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
